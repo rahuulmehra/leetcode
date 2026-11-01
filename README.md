@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/iamrahulmehra/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/iamrahulmehra/leetcode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/iamrahulmehra/leetcode/tree/master/0283-move-zeroes) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/iamrahulmehra/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0704-binary-search](https://github.com/iamrahulmehra/leetcode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/iamrahulmehra/leetcode/tree/master/0735-asteroid-collision) |
 | [0832-flipping-an-image](https://github.com/iamrahulmehra/leetcode/tree/master/0832-flipping-an-image) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/iamrahulmehra/leetcode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/iamrahulmehra/leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/iamrahulmehra/leetcode/tree/master/0326-power-of-three) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/iamrahulmehra/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0728-self-dividing-numbers](https://github.com/iamrahulmehra/leetcode/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/iamrahulmehra/leetcode/tree/master/0836-rectangle-overlap) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/iamrahulmehra/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
