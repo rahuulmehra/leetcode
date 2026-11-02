@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/iamrahulmehra/leetcode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/iamrahulmehra/leetcode/tree/master/0283-move-zeroes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/iamrahulmehra/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/iamrahulmehra/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0704-binary-search](https://github.com/iamrahulmehra/leetcode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/iamrahulmehra/leetcode/tree/master/0735-asteroid-collision) |
 | [0832-flipping-an-image](https://github.com/iamrahulmehra/leetcode/tree/master/0832-flipping-an-image) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/iamrahulmehra/leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/iamrahulmehra/leetcode/tree/master/0326-power-of-three) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/iamrahulmehra/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/iamrahulmehra/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0728-self-dividing-numbers](https://github.com/iamrahulmehra/leetcode/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/iamrahulmehra/leetcode/tree/master/0836-rectangle-overlap) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/iamrahulmehra/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/iamrahulmehra/leetcode/tree/master/0169-majority-element) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/iamrahulmehra/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/iamrahulmehra/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/iamrahulmehra/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/iamrahulmehra/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
